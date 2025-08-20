@@ -565,7 +565,7 @@ body {
     margin-bottom: 5px;
     padding: 0;
     text-align: left;
-    color: var(--secondary);
+    color: white;
     font-weight: normal;
     text-transform: capitalize;
     transition: .3s;
